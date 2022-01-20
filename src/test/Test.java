@@ -35,7 +35,7 @@ public class Test {
                     System.out.println("Region: " + obj.getString("regionName"));
                     System.out.println("City: " + obj.getString("city"));
                     System.out.println("Cod zip: " + obj.getString("zip"));
-                    System.out.println(" --------------------------------");
+                    System.out.println(" ------ -------------- ------------");
                     System.out.println("Zona: " + obj.getString("timezone"));
                     System.out.println("Country Code: " + obj.getString("countryCode"));
                     System.out.println("Latitudine: " + obj.getDouble("lat"));
