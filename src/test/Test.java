@@ -14,8 +14,7 @@ import org.json.JSONObject;
  */
 public class Test {
 
-    
-     public static void main(String[] args) throws JSONException {
+    public static void main(String[] args) throws JSONException {
         Scanner input = new Scanner(System.in);
         System.out.println("Introdu IP adresa... (ex: 192.168.1.1)");
         String ip = input.nextLine();
